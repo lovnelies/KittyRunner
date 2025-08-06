@@ -2,8 +2,8 @@
 
 Un juego desarrollado con en **Construct 3** („• ֊ •„)
 
-[![Screenshot 1](s1.PNG)](https://lovnelies.itch.io/kitty-runner)
-[![Screenshot 2](s2.PNG)](https://lovnelies.itch.io/kitty-runner)
+![Captura 1](screenshots/s1.PNG)  
+![Captura 2](screenshots/s2.PNG)
 
 ---
 
