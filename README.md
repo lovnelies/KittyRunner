@@ -13,4 +13,4 @@ Un juego desarrollado con en **Construct 3** („• ֊ •„)
 
 ## Juega en :
 
-(„• ֊ •„) [**Haz clic aquí para jugar en itch.io**](https://lovnelies.itch.io/kitty-runner)
+(„• ֊ •„) [**itch.io**](https://lovnelies.itch.io/kitty-runner)
